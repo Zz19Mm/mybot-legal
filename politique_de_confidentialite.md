@@ -117,8 +117,7 @@ les contester via le contact ci-dessous.
 
 Pour toute demande (suppression, modification, question) :
 
-- **Serveur d'assistance** : 👉 COLLE ICI TON LIEN D'INVITATION
-- **Email** : 👉 COLLE ICI TON EMAIL
+- **Serveur d'assistance** : 👉 https://discord.gg/TuYD2kTkg3
 
 ## 8. Respect des conditions
 
